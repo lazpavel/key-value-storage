@@ -1,1 +1,1 @@
-export * from './shared-key-value-storage';
+export * from './key-value-storage';
